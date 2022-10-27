@@ -1,6 +1,8 @@
-Quando estiver marcado com * = Não sei se tem certificado
-Quando estiver marcado com ** = Cursos maravilhosos, mas provavelmente vão encher a paciência te oferecendo graduação e pós
-Quando estiver marcado com*** = Não entendi muito a ideia
+#Lista de Sites Com Cursos GratuÃ­tos 
+
+Quando estiver marcado com * = NÃ£o sei se tem certificado
+Quando estiver marcado com ** = Cursos maravilhosos, mas provavelmente vÃ£o encher a paciÃªncia te oferecendo graduaÃ§Ã£o e pÃ³s
+Quando estiver marcado com*** = NÃ£o entendi muito a ideia
 
 
 KULTIVI - https://kultivi.com/
@@ -11,9 +13,9 @@ SEBRAE - https://sebrae.com.br/sites/PortalSebrae
 
 SEST / SENAT - https://ead.sestsenat.org.br/cursos/
 
-EDUCAÇÃO LIVRE*  - https://www.edulivre.org.br/trilhas
+EDUCAÃ‡ÃƒO LIVRE*  - https://www.edulivre.org.br/trilhas
 
-FUNDAÇÃO BRADESCO - https://www.ev.org.br/
+FUNDAÃ‡ÃƒO BRADESCO - https://www.ev.org.br/
 
 KHAN ACADEMY - https://pt.khanacademy.org/
 
@@ -34,7 +36,7 @@ SENAI / SESI -  https://eadsenaies.com.br/cursos-ead-gratuitos/
 MUNDO SENAI - https://loja.mundosenai.com.br/cetiqt/
 
 EVG - https://www.escolavirtual.gov.br/
-ELEVE – Câmara dos Deputados - https://educacaoadistancia.camara.leg.br/site/para-cidadaos/
+ELEVE â€“ CÃ¢mara dos Deputados - https://educacaoadistancia.camara.leg.br/site/para-cidadaos/
 
 ESKADA UEMA - https://eskadauema.com/theme/olm/catalog.php
 
@@ -45,11 +47,11 @@ SERPRO - https://conecta.serpro.gov.br/moodledata-conecta/repository/vitrine/cat
 1MIO*** - https://1mio.com.br/feeds
 
 
-PRINCIPALMENTE ADMINISTRAÇÃO
+PRINCIPALMENTE ADMINISTRAÃ‡ÃƒO
 
 FECAP - https://www.fecap.br/curta-duracao/
 
-GOOGLE ATELIÊ DIGITAL - https://learndigital.withgoogle.com/ateliedigital/courses
+GOOGLE ATELIÃŠ DIGITAL - https://learndigital.withgoogle.com/ateliedigital/courses
 
  B3 - https://edu.b3.com.br/
 
@@ -58,7 +60,7 @@ IETEC - https://ietec.com.br/cursos/gratuitos/
 ANBIMA - https://cursos.anbima.com.br/pagina-inicial?_ga=2.179404580.1853133632.1665529968-1254311011.1665529968
 
 
-TECNOLOGIA e/ou AUTOMAÇÃO
+TECNOLOGIA e/ou AUTOMAÃ‡ÃƒO
 
 ESCOLA DO TRABALHADOR 4.0 - https://ead.escoladotrabalhador40.com.br/
 
@@ -73,15 +75,15 @@ MITSUBISHIE - https://ead.mitsubishielectric.com.br/
 QLIK LEARNING - https://learning.qlik.com/mod/page/view.php?id=24704
 
 
-AGRONEGÓCIO
+AGRONEGÃ“CIO
 
 SENAR - https://ead.senar.org.br/
 
 EMBRAPA - https://www.embrapa.br/e-campo?chamada-eventos
 
-SAÚDE
+SAÃšDE
 
-MINISTÉRIO DA SAÚDE - https://www.unasus.gov.br/
+MINISTÃ‰RIO DA SAÃšDE - https://www.unasus.gov.br/
 
 
 JARDINAGEM 
