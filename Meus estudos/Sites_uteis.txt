@@ -1,9 +1,10 @@
-#Lista de Sites Com Cursos Gratuítos 
+#Lista de Sites Com Cursos, Bootcamps e/ou Palestras Gratuítas 
 
 Quando estiver marcado com * = Não sei se tem certificado
 Quando estiver marcado com ** = Cursos maravilhosos, mas provavelmente vão encher a paciência te oferecendo graduação e pós
 Quando estiver marcado com*** = Não entendi muito a ideia
 
+DIO -  https://www.dio.me/
 
 KULTIVI - https://kultivi.com/
 
