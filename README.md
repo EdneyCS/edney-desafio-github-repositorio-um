@@ -1,4 +1,4 @@
 # Repositório de Projeto sobre Git/Github
-Repositório criado para o ddesafio de projeto da Dio
+Repositório criado para o desafio de projeto da Dio
 
-[sitaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+Este repositório tem o objetivo de aplicar meus conhecimentos em git e github
